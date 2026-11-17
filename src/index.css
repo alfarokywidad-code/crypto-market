@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+      background:
+        radial-gradient(circle at 80% 50%, rgba(118, 87, 255, 0.16), transparent 35%),
+        #0b1020;
+}
